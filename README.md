@@ -1,16 +1,72 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**LGamer228/LGamer228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Фиолетовая аниме-гифка без мрачняка -->
+<img src="https://giphy.com" width="160" alt="vibe-gif" />
 
-Here are some ideas to get you started:
+# 👾 𝔡𝔯𝔞𝔦𝔫_𝔠𝔲𝔱𝔢.𝔢𝔵𝔢 🌌
+### 🪐 LGamer228 // pixel_vibe.sh 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+« превращаю бессонные ночи в красивый интерфейс и чистый код »
+
+🛸 `// soft outside, glitch inside...`
+
+</div>
+
+---
+
+### ☕ Внутри системы // About Me
+
+* 🎧 **Vibe:** лоу-фай на репите, оверсайз зипки, аниме на втором мониторе и ночной кодинг.
+* 🎮 **Hobby:** собираю кастомные механические клавиатуры, ковыряю новые библиотеки, залипаю в уютные инди-игры.
+* 🥤 **Fuel:** холодный матча-латте, кокосовое молоко или энергетики (по ситуации и настроению).
+* ⚙️ **Current status:** круглосуточно оптимизирую свой код, свои репозитории и свой сломанный режим сна.
+* 💤 **Dream:** написать идеальный скрипт, который будет работать сам, пока я сплю или играю.
+
+---
+
+### 📦 Мой инвентарь // Tech & Tools
+
+* 🟪 **JavaScript** `[ ES6+ // пишу интерактивный фронтенд ]`
+* 🟦 **TypeScript** `[ Strict Mode // спасает от глупых ошибок ]`
+* 🟩 **Node.js** `[ Backend Vibe // строю быстрые сервера ]`
+* 🪟 **VS Code** `[ Custom Dark Theme // без темной темы глаза умирают ]`
+* 🐧 **Linux** `[ Kernel & Terminal // чисто ради эстетики и консоли ]`
+
+---
+
+### 🎮 Мои миры // Favorite Games
+
+* 🌌 **Cyberpunk 2077** `[ за неоновый вайб и атмосферу ]`
+* ⛏️ **Minecraft** `[ построить свой уютный кубический бункер ]`
+* 👾 **Инди-игры** `[ Hollow Knight, Celeste и пиксельные шедевры ]`
+* 🎯 **Стримы** `[ иногда просто залипаю на чужой геймплей на фоне ]`
+
+---
+
+### 🛠️ Моя станция // My Setup
+
+* 🖥️ **OS:** Linux (основная для кода) + Windows (для игр и отдыха)
+* ⌨️ **Keyboard:** кастомная механика на тихих линейных переключателях
+* 🎧 **Audio:** огромные полноразмерные наушники с хорошим шумоподавлением
+* 🪵 **Atmosphere:** неоновая лента за монитором и куча фигурок на столе
+
+---
+
+### 📊 Активность // Git Activity
+
+<div align="center">
+  <!-- Встроенная карточка активности в неоновом стиле Tokyo Night -->
+  <img src="https://vercel.app" alt="stats" width="400"/>
+</div>
+
+---
+
+### 📡 Где я обитаю // Contacts
+
+* ⚡ **Discord:** `твой_дискорд`
+* 🧊 **Telegram:** [@твой_юзернейм](https://t.me)
+
+<div align="center">
+  <!-- Счетчик просмотров твоего профиля -->
+  <img src="https://komarev.com" alt="views" />
+</div>
